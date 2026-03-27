@@ -1,2 +1,2 @@
 # python-devops-demo
-This is a complete end to end devops project
+This is a complete end to end devops project.
